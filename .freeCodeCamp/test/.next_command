@@ -18,3 +18,4 @@ $VAR == "hello world"
 ./fortune.sh
 clear
 ./fortune.sh
+./fortune.sh
