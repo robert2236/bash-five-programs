@@ -17,3 +17,4 @@ $VAR == "hello world"
 [[ test? =~ \?$ ]]
 ./fortune.sh
 clear
+./fortune.sh
