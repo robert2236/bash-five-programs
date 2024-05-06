@@ -20,3 +20,4 @@ clear
 ./fortune.sh
 ./fortune.sh
 touch five.sh
+chmod +x five.sh
