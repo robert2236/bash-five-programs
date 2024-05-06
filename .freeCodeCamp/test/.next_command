@@ -22,3 +22,4 @@ clear
 touch five.sh
 chmod +x five.sh
 ./five.sh
+clear
