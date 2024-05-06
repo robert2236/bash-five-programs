@@ -1,3 +1,5 @@
 help [[
 [[ hello == hello ]]
 [[ hello == world ]]
+__vsc_prompt_cmd_original
+[[ hello =~ el ]]
